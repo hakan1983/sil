@@ -1,4 +1,5 @@
 {
+    heroku/php
     "require": {
         "opentok/opentok": "2.2.*"
     }
